@@ -22,9 +22,11 @@
     "remark-html": "^13.0.2",
     "sass": "^1.26.8",
     "tailwindcss": "^1.4.6",
-    "trim": ">=0.0.3"
+    "trim": ">=0.0.3",
+    "node-fetch": ">=2.6.7"
   },
   "devDependencies": {
-    "trim": ">=0.0.3"
+    "trim": ">=0.0.3",
+    "node-fetch": ">=2.6.7"
   }
 }
